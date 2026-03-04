@@ -156,7 +156,7 @@ These are badges that appear in the "Highlights" section of your profile.
 > ---
 >
 > **🤖 Don't know what to ask? Ask AI to help you!**
-> **🤔 不知道问什么？复制下面的提示词给 AI！**
+> **🤔 不知道问什么？复制下面的提示词发给 AI！**
 >
 > *Copy & Paste this prompt to ChatGPT / Claude / DeepSeek:*
 > *复制并发送给 ChatGPT / Claude / DeepSeek:*
