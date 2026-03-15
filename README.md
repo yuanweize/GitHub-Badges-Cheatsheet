@@ -35,7 +35,7 @@
 
 </div>
 
-To unlock the **Public Sponsor** badge, you simply need to sponsor an open source developer.
+To unlock the **Public Sponsor** badge, you simply need to sponsor an open source developer!
 You can sponsor me (the author) for any amount (no minimum limit)! Even **$1** works!
 
 点击上方图片赞助我（作者），即可**秒解** `Public Sponsor` 徽章！
