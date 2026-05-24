@@ -85,7 +85,7 @@ You can sponsor me (the author) for any amount (no minimum limit)! Even **$1** w
 
 ### 🟣 Highlights / Special Badges (特殊徽章)
 
-These are badges that appear in the "Highlights" section of your profile.
+These are the badges that appear in the "Highlights" section of your profile.
 这些是出现在个人主页左下角 "Highlights" 区域的特殊徽章。
 
 | Badge | Name | Description / 获取方法 |
