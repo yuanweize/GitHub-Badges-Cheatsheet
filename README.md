@@ -178,4 +178,13 @@ If you found this useful, please:
 1. **Star** this repository ⭐ (Help me get Starstruck!)
 2. **[Sponsor Me](https://github.com/sponsors/yuanweize)** 💖 (Get your Public Sponsor badge!)
 
+---
+
+## 📄 License & Trademark Notice
+
+This reference documentation is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+
+> **Trademark Notice**: Third-party product names, logos, service marks, and achievement badges (including GitHub, Shields.io, and associated ecosystem brands) referenced in this cheatsheet belong to their respective owners. Their inclusion is for identification and educational reference only.
+
 *Happy Hacking!*
+
